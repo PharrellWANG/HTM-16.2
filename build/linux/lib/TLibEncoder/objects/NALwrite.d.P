@@ -1,0 +1,15 @@
+objects/NALwrite.d.o: \
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/pharrell/HTM-16.2/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
